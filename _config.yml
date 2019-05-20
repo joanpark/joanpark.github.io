@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "DreamConsole"
-  avatar : "/assets/images/logo_dreamconsole.jpg"
+  avatar : "/assets/images/logo_dreamconsole_sq.jpg"
   bio    : "Game developer's blog"
   links:
     - label: "Website"
