@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+켄 Ken Park
+드림콘솔(DreamConsole)의 Author
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+[드림콘솔](http://www.technovelgy.com/ct/content.asp?Bnum=1877)이라는 말은 로저 젤라즈니의 한 SF의 소설에서 따왔다.
+
+1981년에 태어나 대전에서 어린 시절을 보냈다. 최루탄 냄새를 기억하고 문민정부를 갓 겪은지 얼마 안되어 IMF 외환위기라는 경제적 공황시기를 지내며 부모님들의 경제적 우울을 청년기에 경험한 세대이다. 소비 문화적으로는 나름 황금기를 맞아 대중 문화의 부흥을 경험하기도 하였지만 아직 한류 문화가 태동하기 전이어서인지 어지러이 무분별하게 도입된 외래 대중 문화의 유입으로 인해 세기말 특유의 무거운 분위기와 맞물려 가치관의 혼란 내지는 공허감이 극도로 달했던 시기이기도 하다. 또한 이 시기에 수차에 걸쳐 일본 대중문화 개방이 이루어져 일본 음악, 영화, 애니메이션이 그 어느 때보다도 풍부하게 향유되기 시작했었고 나는 컴퓨터 게임에 심취했었다. 소위 밀레니엄이라는 세대의 포문을 연 00학번이었으며 수원의 한 대학교에서 컴퓨터 공학을 전공하고 결국 게임 개발자가 되었다. 10여년 경력의 기간 동안 다양한 게임 회사를 다니며 PC와 스마트폰용 RPG 게임들을 주로 개발했고 현재는 서울 가산동의 C회사에서 신규 프로젝트에 참여하고 있다. 유니티 엔진을 좋아하고 취미는 인디게임개발 혹은 독서와 글쓰기이다. 현대인에게 문학 요법(Bibliotherapy)이 꽤 유용하다고 믿고 있으며, 매주 1회 흑석동의 한 소설쓰기 모임에 참여하고 있다. 언젠가는 작가라는 직업을 가지게 될 지도 모를 일이다.
