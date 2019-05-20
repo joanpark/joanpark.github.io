@@ -4,6 +4,7 @@ title: "About"
 ---
 
 켄 Ken Park
+
 드림콘솔(DreamConsole)의 Author
 
 [드림콘솔](http://www.technovelgy.com/ct/content.asp?Bnum=1877)이라는 말은 로저 젤라즈니의 한 SF의 소설에서 따왔다.
