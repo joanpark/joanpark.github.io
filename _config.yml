@@ -8,3 +8,7 @@ theme: jekyll-theme-minimal
 
 # Plugins
 plugins: [jekyll-paginate]
+
+# Build settings
+paginate: 6
+paginate_path: 'page:num'
