@@ -4,3 +4,7 @@ description: Game developer's blog
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+
+# Plugins
+plugins: [jekyll-paginate]
