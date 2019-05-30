@@ -1,3 +1,12 @@
+---
+title: "파워셸 관리자 권한으로 실행하기"
+categories:
+  - Programming
+tags:
+  - powershell
+---
+
+
 node.js 프로그래밍을 하다보면
 터미널(파워셸)에 관리자 권한을 부여해야 하는 경우가 있다.(특정 모듈 설치시)
 
