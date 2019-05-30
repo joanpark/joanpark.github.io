@@ -12,9 +12,9 @@ node.js 프로그래밍을 하다보면
 
 예를 들어, 이렇게 윈도우즈 빌드 툴 같은 걸 설치할 때 관리자 권한이 필요한데
 
-'''
+```
 npm install --global --production windows-build-tools
-'''
+```
 
 두 가지 방법이 있다.
 
