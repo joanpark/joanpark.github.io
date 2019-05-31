@@ -27,7 +27,7 @@ https://superuser.com/questions/1255775/give-administrator-privileges-to-existin
 
 
 
-###참고
+### 참고
 
 [^1] 파워셸 더알아보기
 
