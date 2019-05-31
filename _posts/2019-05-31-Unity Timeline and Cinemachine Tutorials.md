@@ -34,20 +34,24 @@ https://www.dropbox.com/s/uqh6iurd646mvwt/TimelineAndCinemachineTutorial-WG.zip?
 
 #### 타임라인과 씨네머신 튜토리얼 소개 (돌리트랙 포함) {#content-1}
 
+##### 버추얼 카메라 추가, 카메라에 대상 추적 기능 설정하기
+예제 프로젝트를 유니티에서 연다.(유니티 버전 2019.1.4f1 사용)  
+빈 오브젝트를 추가해서 CM_
 
 
-#### 타임라인 소개{#content-2}
+
+#### 타임라인 소개 {#content-2}
 
 
-#### 씨네머신 소개{#content-3}
+#### 씨네머신 소개 {#content-3}
 
 
-#### 씨네머신, 클리어샷{#content-4}
+#### 씨네머신, 클리어샷 {#content-4}
 
-#### 타임라인 시작하기{#content-5}
+#### 타임라인 시작하기 {#content-5}
 
-#### 타임라인, 트랙의 이해{#content-6}
+#### 타임라인, 트랙의 이해 {#content-6}
 
-#### 타임라인, 애니메이션 클립으로 작업{#content-7}
+#### 타임라인, 애니메이션 클립으로 작업 {#content-7}
 
 
