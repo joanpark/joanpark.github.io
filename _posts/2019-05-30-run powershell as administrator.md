@@ -29,7 +29,7 @@ https://superuser.com/questions/1255775/give-administrator-privileges-to-existin
 
 ### 참고
 
-[^1] 파워셸 더알아보기
+[^1]: 파워셸 더알아보기
 
 [파워셸 도움말](https://docs.microsoft.com/ko-kr/powershell/scripting/overview?view=powershell-6)
 
