@@ -25,7 +25,7 @@ tags:
 
 유니티 최신 기능인 타임라인과 씨네머신을 이용해서 간단한 30초 짜리 컷씬 예제를 만들어 볼 것이다.
 (영문 유니티 튜토리얼을 참고하였다. https://learn.unity.com/)
-그 밖에 돌비트랙, 버추얼카메라에 대한 개념도 학습하게 된다.
+그 밖의 돌비트랙, 버추얼카메라에 대한 개념도 학습하게 된다.
 
 예제 프로젝트는 아래 링크에서 다운로드 받을 수 있다.
 https://www.dropbox.com/s/uqh6iurd646mvwt/TimelineAndCinemachineTutorial-WG.zip?dl=0
@@ -33,6 +33,7 @@ https://www.dropbox.com/s/uqh6iurd646mvwt/TimelineAndCinemachineTutorial-WG.zip?
 
 
 #### 타임라인과 씨네머신 튜토리얼 소개 (돌리트랙 포함) {#content-1}
+
 
 
 #### 타임라인 소개{#content-2}
