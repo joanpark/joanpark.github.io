@@ -31,8 +31,8 @@ https://superuser.com/questions/1255775/give-administrator-privileges-to-existin
 
 [^1]: 파워셸 더알아보기
 
-  [파워셸 도움말](https://docs.microsoft.com/ko-kr/powershell/scripting/overview?view=powershell-6)
+    [파워셸 도움말](https://docs.microsoft.com/ko-kr/powershell/scripting/overview?view=powershell-6)
 
-  [위키피디아 파워셸](https://ko.wikipedia.org/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_%ED%8C%8C%EC%9B%8C%EC%85%B8)
+    [위키피디아 파워셸](https://ko.wikipedia.org/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_%ED%8C%8C%EC%9B%8C%EC%85%B8)
 
-  [MS윈도 명령프롬프트 사라지나](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=092&aid=0002106773)
+    [MS윈도 명령프롬프트 사라지나](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=092&aid=0002106773)
