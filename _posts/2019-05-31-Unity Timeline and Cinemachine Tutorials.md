@@ -9,7 +9,7 @@ tags:
   - tutorials
 ---
 
-
+![Title Image, Unity Timeline and Cinemachine Tutorials](/assets/images/xbox-1602822_1920.jpg "Unity Timeline and Cinemachine Tutorials")
 
 #### 튜토리얼 목차
 * [타임라인과 씨네머신 튜토리얼 소개 (돌리트랙 포함)](#content-1)
