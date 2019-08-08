@@ -19,5 +19,6 @@ Same applies to delete+new and delete[]+new[].
 
 [참고]
 https://stackoverflow.com/questions/33613246/heap-error-invalid-address-specified-to-rtlvalidateheap
+<br>
 http://egloos.zum.com/saintrv/v/1560122
 
