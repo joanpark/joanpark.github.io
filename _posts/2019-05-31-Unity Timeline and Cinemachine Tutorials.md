@@ -30,6 +30,8 @@ tags:
 예제 프로젝트는 아래 링크에서 다운로드 받을 수 있다.
 https://www.dropbox.com/s/uqh6iurd646mvwt/TimelineAndCinemachineTutorial-WG.zip?dl=0
 
+아래, 유니티 유럽에서 제작한 타임라인&씨네머신 관련 동영상도 확인하자.
+https://www.youtube.com/playlist?list=PLX2vGYjWbI0RvixSO2Ko08axqABaKzGq_
 
 
 #### 1. 타임라인과 씨네머신 튜토리얼 소개 (돌리트랙 포함) {#content-1}
