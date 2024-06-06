@@ -68,7 +68,7 @@ git clone git@github.com:[username]/[repository name].git
 
 * git clone
 * git add 
-* git add . : 이렇게 점을 추가해서 명령을 내리면, 폴더 나의 새 파일들을 모두 추가할 수 있습니다.
+* git add . : 이렇게 점을 추가해서 명령을 내리면, 변경된 모든 파일을 커밋 목록에 추가한다.
 * git commit -m "메시지"
 * git push
 * git pull 
