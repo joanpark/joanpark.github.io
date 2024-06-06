@@ -1,3 +1,12 @@
+---
+title: "터미널에서 git / github 사용해보기"
+categories:
+  - tips
+tags:
+  - git
+  - Github
+  - terminal
+---
 # 터미널에서 git / github 사용해보기
 
 안녕하세요 오늘은 터미널(쉘이라고도 하죠)에서 깃을 사용하는 법을 정리해보겠습니다. 😀 💻

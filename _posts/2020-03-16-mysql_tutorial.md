@@ -1,6 +1,12 @@
+---
+title: "MySQL 사용법"
+categories:
+  - tutorial
+tags:
+  - MySql
+  - database
+---
 # MySQL 사용법
-
-
 
 * [참고사항](##참고사항)
 
