@@ -5,6 +5,7 @@ categories:
 tags:
   - Linux
   - Ubuntu
+  - OS
 ---
 
 # 팁 모음
