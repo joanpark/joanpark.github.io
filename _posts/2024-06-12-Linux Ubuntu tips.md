@@ -29,3 +29,11 @@ Settings -> Region & Langauage -> Language를 English(United States)에서 'Engl
 입력소스를 그냥 Korean이 아니라 Korea(Hangul) 로 해줄 것!
 
 -한영 전환키 : Super(윈도키 등) + space
+
+
+## python 명령어를 인식 못할 경우 (python3는 설치되어 있는데도)
+
+python3-is-python을 설치한다.
+
+-sudo apt install python3-is-python 
+
