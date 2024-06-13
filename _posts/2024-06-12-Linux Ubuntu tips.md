@@ -33,7 +33,7 @@ Settings -> Region & Langauage -> Language를 English(United States)에서 'Engl
 
 ## python 명령어를 인식 못할 경우 (python3는 설치되어 있는데도)
 
-python3-is-python을 설치한다.
+python-is-python3을 설치한다.
 
--sudo apt install python3-is-python 
+-sudo apt install python-is-python3 
 
