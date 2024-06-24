@@ -1,7 +1,7 @@
 ---
 title: "V8 빌드하기"
 categories:
-  - library
+  - Library
 tags:
   - V8
   - Javascript
