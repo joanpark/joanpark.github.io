@@ -4,8 +4,8 @@ categories:
   - Blog
 tags:
   - vi
-  - linux
-  - unix
+  - Linux
+  - Unix
   - editor
 ---
 

@@ -3,7 +3,7 @@ title: "윈도 10 팁 정리"
 categories:
   - Programming
 tags:
-  - windows10
+  - Windows10
 ---
 
 

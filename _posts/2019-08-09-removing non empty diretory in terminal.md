@@ -3,7 +3,7 @@ title: "터미널에서 디렉토리 지우기"
 categories:
   - Programming
 tags:
-  - powershell
+  - Powershell
   - terminal
 ---
 

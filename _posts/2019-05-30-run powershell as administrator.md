@@ -3,8 +3,8 @@ title: "파워셸 관리자 권한으로 실행하기"
 categories:
   - Programming
 tags:
-  - powershell
-  - node.js
+  - Powershell
+  - Node.js
 ---
 
 

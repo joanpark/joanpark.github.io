@@ -4,7 +4,7 @@ categories:
   - Programming
 tags:
   - debugging
-  - c++
+  - C++
   - heap
 ---
 

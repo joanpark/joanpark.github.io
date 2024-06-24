@@ -3,9 +3,9 @@ title: "유니티 타임라인 & 씨네머신 튜토리얼"
 categories:
   - GameDevelopment
 tags:
-  - unity
-  - cinemachine
-  - timeline
+  - Unity
+  - Cinemachine
+  - Timeline
   - tutorials
 ---
 

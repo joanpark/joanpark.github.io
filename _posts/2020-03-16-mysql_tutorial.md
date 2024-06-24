@@ -3,7 +3,7 @@ title: "MySQL 사용법"
 categories:
   - tutorial
 tags:
-  - MySql
+  - MySQL
   - database
 ---
 # MySQL 사용법
