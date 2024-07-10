@@ -82,6 +82,7 @@ git clone git@github.com:[username]/[repository name].git
 * git commit -m "메시지"
 * git push
 * git pull 
+* git restore . :  discard all local changes
 
 깃 클라이언트 프로그램을 써 본 분들은 위 내용만 보아도 어떤 명령인지 알 수 있겠죠.😀
 
